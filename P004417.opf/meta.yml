@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W1KG9801
   title: ཆོས་ཀྱི་བརྗེད་བྱང་།
   author: ''
-  volumes: {}
+  volumes:
+    284ccd160ce14f239fa04ec47995158e:
+      image_group_id: I1KG9818
+      title: ''
+      volume_number: 1
+      total_pages: 602
